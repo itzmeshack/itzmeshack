@@ -33,10 +33,9 @@ I'm a full-stack software engineer and final-year BSc Software Engineering stude
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzmeshack&show_icons=true&theme=dark&hide_border=true&title_color=C8822A&icon_color=C8822A" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeshack&layout=compact&theme=dark&hide_border=true&title_color=C8822A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzmeshack&show_icons=true&theme=dark&hide_border=true&title_color=C8822A&icon_color=C8822A&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeshack&layout=compact&theme=dark&hide_border=true&title_color=C8822A&cache_seconds=1800" width="48%" />
 </p>
-
 ---
 
 ## 📫 Get in Touch
